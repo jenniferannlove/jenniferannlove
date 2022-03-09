@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jenniferannlove
 - 👀 I’m interested in ... crypto mining and investing  
 - 🌱 I’m currently learning ... DAOs and NFTs
-- 💞️ I’m looking to collaborate on ... a website ofr the Helium community 
+- 💞️ I’m looking to collaborate on ... a platform to help build out the Helium network
 - 📫 How to reach me ... text me 754-422-3834
 
 <!---
